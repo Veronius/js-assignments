@@ -296,7 +296,7 @@ function isString(value) {
  *   'K♠' => 51
  */
 function getCardId(value) {
- 
+
     throw new Error('Not implemented');
 }
 
